@@ -1,0 +1,41 @@
+div{
+    text-align: center;
+    margin-top: 65%;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 10vw;
+}
+
+body{
+    background-color: black;
+}
+
+button{
+    margin-top: 8%;
+    background-color: white;
+    border-radius: 30%;
+    border-color: white;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    width: 30%;
+    font-size: 5vw;
+    transition-duration: 0.5s;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+
+input {
+    text-align: center;
+    width: 65%;
+    height: 10vw;
+    font-size: 8vw;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+}
