@@ -9,6 +9,6 @@ else if (y === "GLADYS FLORENTHA") {
     document.getElementById("kirim").setAttribute("href", "https://hunterscop1.github.io/pulung/")
 }
 else{
-    document.getElementById("kirim").setAttribute("href", "/salah/index.html")
+    document.getElementById("kirim").setAttribute("href", "https://hunterscop1.github.io/salah/")
 }
 }
