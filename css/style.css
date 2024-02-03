@@ -38,4 +38,6 @@ input {
     font-size: 8vw;
     font-family: 'Times New Roman', Times, serif;
     text-transform: capitalize;
+    background-color: white;
+    color: black;
 }
