@@ -46,3 +46,14 @@ input {
     background-color: white;
     color: black;
 }
+
+p{
+    text-align: left;
+    font-size: 3vw;
+    font-family: font;
+    color: white;
+}
+
+a{
+    color: white;
+}
