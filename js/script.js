@@ -12,6 +12,9 @@ else if (y === "") {
     alert("Nama harus di isi!!")
     return false;
 }
+else if (y === "NICCO") {
+    document.getElementById("kirim").setAttribute("href", "/Skyy/n/index.html")
+}
 else{
     document.getElementById("kirim").setAttribute("href", "https://hunterscop1.github.io/salah/")
 }
