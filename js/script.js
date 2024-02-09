@@ -6,7 +6,7 @@ if (y === "ELMIRAHALIZASUKMAWAN") {
     document.getElementById("kirim").setAttribute("href", "https://hunterscop1.github.io/ultah/")
 }
 else if (y === "GLADYSFLORENTHA") {
-    document.getElementById("kirim").setAttribute("href", "https://hunterscop1.github.io/pulung/")
+    document.getElementById("kirim").setAttribute("href", "https://hunterscop1.github.io/THX/")
 }
 else if (y === "") {
     alert("Nama harus di isi!!")
