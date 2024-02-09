@@ -1,11 +1,11 @@
 
 function myFunction() {
     var x = document.getElementById("nama").value;
-    var y = x.toUpperCase()
-if (y === "ELMIRA HALIZA SUKMAWAN") {
+    var y = x.toUpperCase().split(" ").join("")
+if (y === "ELMIRAHALIZASUKMAWAN") {
     document.getElementById("kirim").setAttribute("href", "https://hunterscop1.github.io/ultah/")
 }
-else if (y === "GLADYS FLORENTHA") {
+else if (y === "GLADYSFLORENTHA") {
     document.getElementById("kirim").setAttribute("href", "https://hunterscop1.github.io/pulung/")
 }
 else if (y === "") {
