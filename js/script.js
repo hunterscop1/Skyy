@@ -3,7 +3,7 @@ function myFunction() {
     var x = document.getElementById("nama").value;
     var y = x.toUpperCase().split(" ").join("")
 if (y === "ELMIRAHALIZASUKMAWAN") {
-    document.getElementById("kirim").setAttribute("href", "https://hunterscop1.github.io/ultah/")
+    document.getElementById("kirim").setAttribute("href", "https://vercel.com/hunterscop1s-projects/ultah/JC6eqcsw827L8CEC2YvpywskNYbx")
 }
 else if (y === "GLADYSFLORENTHA") {
     document.getElementById("kirim").setAttribute("href", "https://hunterscop1.github.io/THX/")
