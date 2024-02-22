@@ -6,7 +6,7 @@ if (y === "ELMIRAHALIZASUKMAWAN") {
     document.getElementById("kirim").setAttribute("href", "https://ultah-sigma.vercel.app/")
 }
 else if (y === "GLADYSFLORENTHA") {
-    document.getElementById("kirim").setAttribute("href", "https://hunterscop1.github.io/THX/")
+    document.getElementById("kirim").setAttribute("href", "https://thx-omega.vercel.app/")
 }
 else if (y === "") {
     alert("Nama harus di isi!!")
