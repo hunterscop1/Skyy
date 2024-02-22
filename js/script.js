@@ -13,9 +13,9 @@ else if (y === "") {
     return false;
 }
 else if (y === "NICCO") {
-    document.getElementById("kirim").setAttribute("href", "/Skyy/n/index.html")
+    document.getElementById("kirim").setAttribute("href", "/n/index.html")
 }
 else{
-    document.getElementById("kirim").setAttribute("href", "https://hunterscop1.github.io/salah/")
+    document.getElementById("kirim").setAttribute("href", "https://salah-sigma.vercel.app/")
 }
 }
