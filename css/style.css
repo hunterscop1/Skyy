@@ -1,12 +1,20 @@
-div{
-    text-align: center;
-    margin-top: 65%;
+.main {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  flex-wrap: wrap;
+  align-items: center;
+  height: 80vh;
+  margin: 0;
 }
 
 h1{
     font-family: font;
     color: aquamarine;
     font-size: 10vw;
+    margin: 3;
+    padding: 0;
 }
 
 body{
@@ -19,15 +27,21 @@ body{
 }
 
 button{
-    margin-top: 8%;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
     background-color: white;
     border-radius: 30%;
     border-color: white;
     color: black;
     font-family: font;
-    width: 30%;
+    width: 25vw;
     font-size: 5vw;
     transition-duration: 0.5s;
+    align-self: center;
+    margin-top: 3;
+    padding-top: 3;
 }
 
 button:hover {
@@ -46,6 +60,7 @@ input {
     text-transform: capitalize;
     background-color: white;
     color: black;
+    margin-bottom: 5vw;
 }
 
 p{
@@ -56,5 +71,20 @@ p{
 }
 
 a{
+    color: white;
+}
+.instagram {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.text {
+    font-size: 5vw;
+    color: black;
+    margin: auto;
+    padding: auto;
+}
+
+.text:hover {
     color: white;
 }
